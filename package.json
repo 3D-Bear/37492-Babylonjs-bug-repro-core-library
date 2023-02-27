@@ -1,0 +1,25 @@
+{
+  "name": "37492-babylonjs-bug-repro-core-library",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/core-library-index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/3D-Bear/37492-babylonjs-bug-repro-core-library.git"
+  },
+  "author": "3D-Bear",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/3D-Bear/37492-Babylonjs-bug-repro-core-library/issues"
+  },
+  "homepage": "https://github.com/3D-Bear/37492-Babylonjs-bug-repro-core-library#readme",
+  "dependencies": {
+    "babylonjs": "^5.48.0"
+  },
+  "devDependencies": {
+    "typescript": "^4.9.5"
+  }
+}
